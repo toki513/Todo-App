@@ -18,7 +18,7 @@ button {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  padding: 14px;
+  padding: 13px;
   background: #eff6ff;
   gap: 14px;
 }
